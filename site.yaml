@@ -1,0 +1,6 @@
+configuration:
+  pageTitle: "backend roadmap"
+  baseUrl: "backend.lllllan.cn"
+
+footerLinks:
+  GitHub: "https://github.com/blog-archives/backend"
