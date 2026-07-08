@@ -5,4 +5,4 @@ order: 0
 
 > https://roadmap.sh/backend
 
-![roadmap](assets/backend.jpeg)
+![roadmap](assets/backend.jpg)
